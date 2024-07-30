@@ -1,9 +1,10 @@
 <?php
 /**
  * Plugin Name: WooCommerce Dual Pricing
- * Description: Manage dual pricing for products in WooCommerce based on user roles.
+ * Description: Ofrece un precio distinto al rol de usuario instalador. Por ejemplo para instaladores de lamparas, les mejoras el precio.
  * Version: 1.0
- * Author: Tu Nombre
+ * Author: Oscar Jesús Zúñiga Ruiz
+ * URI: bozstudy.com
  * Text Domain: woocommerce-dual-pricing
  */
 
